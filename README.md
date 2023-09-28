@@ -1,5 +1,5 @@
 # WhatsApp UI Flutter
-### Video Tutorial: https://youtu.be/ELW-xf76yFY
+https://www.youtube.com/channel/UCOlGME-IYrqmn6eVaTFXgxw
 #### Application Screenshots
 
 
